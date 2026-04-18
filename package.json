@@ -1,0 +1,8 @@
+{
+  "name": "warzonebot",
+  "version": "1.0.0",
+  "main": "warzone-rank-discord-bot.js",
+  "scripts": {
+    "start": "node warzone-rank-discord-bot.js"
+  }
+}
