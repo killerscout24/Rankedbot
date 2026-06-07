@@ -6,9 +6,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.14.1"
-  },
-  "engines": {
-    "node": "18.x"
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0",
+    "express": "^4.21.2"
   }
 }
